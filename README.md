@@ -1,4 +1,4 @@
-Hi ! I am NAFIS UDDIN from the DEPARTMENT of SOFTWARE ENGINEERING, SUST. I am currently learning full stack web development
+Hi ! I am NAFIS UDDIN from the DEPARTMENT of SOFTWARE ENGINEERING, SUST. I am currently depressed
   
 [![Learning JS CI](https://github.com/NafisUddinElok/Learning-JavaScript/actions/workflows/main.yml/badge.svg)](https://github.com/NafisUddinElok/Learning-JavaScript/actions/workflows/main.yml)
 <!---
